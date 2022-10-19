@@ -1,7 +1,7 @@
 # README.md
 
 ## 42_cursus
-
+[![yongmkim's 42 stats](https://badge42.vercel.app/api/v2/cl38txogk004909l100cr3o0d/stats?cursusId=9&coalitionId=piscine)](https://profile.intra.42.fr/users/yongmkim)
 [![yongmkim's 42 stats](https://badge42.vercel.app/api/v2/cl38txogk004909l100cr3o0d/stats?cursusId=21&coalitionId=86)](https://profile.intra.42.fr/users/yongmkim)
 
 ## project_log
