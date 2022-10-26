@@ -16,11 +16,11 @@
 | I | **[ft_printf](https://github.com/ecole42-yoma/ft_printf)** | [![yongmkim's 42 netwhat Score](https://badge42.vercel.app/api/v2/cl38txogk004909l100cr3o0d/project/2243072)](https://github.com/ecole42-yoma/ft_printf) | C, printf |  |
 | I | **Born2beroot** | ![yongmkim's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl38txogk004909l100cr3o0d/project/2212747) | VM |  |
 | II | **[minitalk](https://github.com/ecole42-yoma/minitalk)** | [![yongmkim's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl38txogk004909l100cr3o0d/project/2496547)](https://github.com/ecole42-yoma/minitalk) | C, signal |  |
-| II | **pipex** |  | C, pipe |  |
+| II | **[pipex](https://github.com/ecole42-yoma/pipex)** | [![yongmkim's 42 pipex Score](https://badge42.vercel.app/api/v2/cl38txogk004909l100cr3o0d/project/2496548)](https://github.com/ecole42-yoma/pipex) | C, pipe |  |
 | II | **[push_swap](https://github.com/ecole42-yoma/push_swap)** | [![yongmkim's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl38txogk004909l100cr3o0d/project/2506197)](https://github.com/ecole42-yoma/push_swap) | C, algorithm |  |
 | II | **[FdF](https://github.com/ecole42-yoma/FdF)** | [![yongmkim's 42 FdF Score](https://badge42.vercel.app/api/v2/cl38txogk004909l100cr3o0d/project/2496227)](https://github.com/ecole42-yoma/FdF) | C, Graphic |  |
-| II | **fract-ol** |  | C, Graphic |  |
-| II | **so-long** |  | C, Graphic |  |
+| II | **[fract-ol](https://github.com/ecole42-yoma/fract-ol)** | [![yongmkim's 42 fract-ol Score](https://badge42.vercel.app/api/v2/cl38txogk004909l100cr3o0d/project/2496226)](https://github.com/ecole42-yoma/fract-ol) | C, Graphic |  |
+| II | **[so-long](https://github.com/ecole42-yoma/so-long)** | [![yongmkim's 42 so_long Score](https://badge42.vercel.app/api/v2/cl38txogk004909l100cr3o0d/project/2542702)](https://github.com/ecole42-yoma/so-long) | C, Graphic |  |
 | II | **Exam Rank 02** | ![yongmkim's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl38txogk004909l100cr3o0d/project/2526550) | C |  |
 | III | **[Philosophers](https://github.com/ecole42-yoma/Philosophers)** | [![yongmkim's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl38txogk004909l100cr3o0d/project/2577341)](https://github.com/ecole42-yoma/Philosophers) | C, scheduling |  |
 | III | **[minishell](https://github.com/ecole42-yoma/minishell)** | [![yongmkim's 42 minishell Score](https://badge42.vercel.app/api/v2/cl38txogk004909l100cr3o0d/project/2590710)](https://github.com/ecole42-yoma/minishell) | C, shell (bash) |  |
