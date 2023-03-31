@@ -45,7 +45,7 @@
 |5| **[Inception](https://github.com/ecole42-yoma/Inception)** | `Docker` `LAMP Stack` | <sub> This project aims to broaden your knowledge of system administration by using Docker. </br> You will virtualize several Docker images, creating them in your new personal virtual machine. </br> docker, docker compose, nginx, mysql, redis, ftp, adminer, code-server </sub> |
 || **[webserv](https://github.com/ecole42-yoma/webserv)** | `C++` `HTTP Server` | **This is when you finally understand why a URL starts with HTTP** </br> <sub> This project is about writing your own HTTP server. You will be able to test it with an actual browser. </br> HTTP is one of the most used protocols on the internet. Knowing its arcane will be useful, even if you won’t be working on a website. </sub> |
 || **[ft_containers](https://github.com/ecole42-yoma/ft_containers)** | `C++` `STL` `TMP` | **C++ containers, easy mode** </br> <sub> The standard C++ containers have all a specific usage. </br> To make sure you understand them, let’s re-implement them! </sub> |
-|6| **ft_transcendence** |  | service |  |
+|6| **[ft_transcendence](https://github.com/ecole42-yoma/ft_transcendence)** | `TypeScript` `Nest.JS` `PostgreSQL` | **Soon, you will realize that you already know things that you thought you didn’t** </br> <sub> No more C! No more C++! This project is about doing something you’ve never done before. </br> Remind yourself the beginning of your journey in computer science. Look at you now. Time to shine! </sub>|  |
 ||  |  |  |  |
 |+|  |  |  |  |
 
