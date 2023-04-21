@@ -1,5 +1,3 @@
-# README.md
-
 ## 🖼️ 42 Cursus
 <!--
 [![yongmkim's 42 stats](https://badge42.vercel.app/api/v2/cl38txogk004909l100cr3o0d/stats?cursusId=9&coalitionId=piscine)](https://profile.intra.42.fr/users/yongmkim)
@@ -11,7 +9,7 @@
 
 <br/>
 
-## 📚 Core Curriculum
+## 📚 The Core Curriculum
 <!--
 || **[pipex](https://github.com/ecole42-yoma/pipex)** | [![yongmkim's 42 pipex Score](https://badge42.vercel.app/api/v2/cl38txogk004909l100cr3o0d/project/2496548)](https://github.com/ecole42-yoma/pipex) | `C` `pipe` |  |
 || **[fract-ol](https://github.com/ecole42-yoma/fract-ol)** | [![yongmkim's 42 fract-ol Score](https://badge42.vercel.app/api/v2/cl38txogk004909l100cr3o0d/project/2496226)](https://github.com/ecole42-yoma/fract-ol) | `C` `Graphic` |  |
@@ -38,6 +36,13 @@
 || **[ft_containers](https://github.com/ecole42-yoma/ft_containers)** | `C++` `STL` `TMP` | **C++ containers, easy mode** </br> <sub> The standard C++ containers have all a specific usage. </br> To make sure you understand them, let’s re-implement them! </sub> |
 |6| **[ft_transcendence](https://github.com/ecole42-yoma/ft_transcendence)** | `TypeScript` `Nest.JS` `PostgreSQL` `React` `Jotai` | **Soon, you will realize that you already know things that you thought you didn’t** </br> <sub> No more C! No more C++! This project is about doing something you’ve never done before. </br> Remind yourself the beginning of your journey in computer science. Look at you now. Time to shine! </sub>|  |
 ||  |  |  |  |
+
+<br><br>
+
+## 📚 The Second Part
+| Specialty | Project Name  |  Stack  |  Summary  |
+|:---:|:---:|:---:|:---|
+| | | | |
 
 <!--
 | type |  |  |  |  |
