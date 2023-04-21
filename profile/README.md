@@ -18,8 +18,8 @@
 
 | Lv | Project Name  |  Stack  |  Summary  |
 |:---:|:---:|:---:|:---|
-|0| **[Libft](https://github.com/ecole42-yoma/Libft)** | `C` `library` | **Your very first own library** </br> <sub> This project is your very first project as a student at 42. You will need to recode a few functions of the C standard library as well as some other utility functions that you will use during your whole cursus. </br> This project is about coding a C library. It will contain a lot of general purpose functions your programs will rely upon. </sub>|
-|1| **[get_next_line](https://github.com/ecole42-yoma/get_next_line)** | `C` `getline` | **Reading a line from a fd is way too tedious** </br> <sub> This project is about programming a function that returns a line read from a file descriptor. </br> May it be a file, stdin, or even later a network connection, you will always need a way to read content line by line. It is time to start working on this function, which will be essential for your future projects. </sub> |
+|0| **[Libft](https://github.com/ecole42-yoma/Libft)** | `C` `library` | Your very first own library |
+|1| **[get_next_line](https://github.com/ecole42-yoma/get_next_line)** | `C` `getline` | Reading a line from a fd is way too tedious |
 || **netwhat** | `Network` | <sub> This project is an introduction to network problematics. </sub> |
 || **[ft_printf](https://github.com/ecole42-yoma/ft_printf)** | `C` `printf` | **Because ft_putnbr() and ft_putstr() aren’t enough** </br> <sub> The goal of this project is pretty straightforward. You will recode printf(). You will mainly learn about using a variable number of arguments. How cool is that?? It is actually pretty cool :) </br> You will learn what is and how to implement variadic functions. Once you validate it, you will reuse this function in your future projects. </sub> |
 || **Born2beroot** | `VM` | <sub> This project aims to introduce you to the wonderful world of virtualization. </sub> |
