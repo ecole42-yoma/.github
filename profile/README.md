@@ -17,7 +17,7 @@
 -->
 
 | Lv | Project Name  |  Stack  |  Summary  |
-|:---:|:---:|:---|:---|
+|:---:|:---:|:---:|:---|
 | 0 | **[Libft](https://github.com/ecole42-yoma/Libft)** | `C` `library` | Your very first own library |
 | I | **[get_next_line](https://github.com/ecole42-yoma/get_next_line)** | `C` `getline` | Reading a line from a fd is way too tedious |
 | | **netwhat** | `Network` | This project is an introduction to network problematics |
@@ -30,7 +30,7 @@
 | | **[minishell](https://github.com/ecole42-yoma/minishell)** | `C` `Shell (bash)` | As beautiful as a shell |
 | IV | **NetPractice** | `Network` | NetPractice is a general practical exercise to let you discover networking |
 | | **[cub3d](https://github.com/ecole42-yoma/cub3d)** | `C` `Graphic` `Ray-Casting` | My first RayCaster with miniLibX |
-| | **[CPP Module Series](https://github.com/ecole42-yoma/CPP-Module)** | `C++` | Time to dive into Object Oriented Programming! |
+| | **[CPP Module Series](https://github.com/ecole42-yoma/CPP-Module)** | `C++` `OOP` | Time to dive into Object Oriented Programming! |
 | V | **[Inception](https://github.com/ecole42-yoma/Inception)** | `Docker` `LAMP Stack` | This project aims to broaden your knowledge of system administration by using Docker |
 | | **[webserv](https://github.com/ecole42-yoma/webserv)** | `C++` `HTTP Server` | This is when you finally understand why a URL starts with HTTP |
 | | **[ft_containers](https://github.com/ecole42-yoma/ft_containers)** | `C++` `STL` `TMP` | C++ containers, easy mode |
