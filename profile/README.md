@@ -17,7 +17,7 @@
 -->
 
 | Lv | Project Name  |  Stack  |  Summary  |
-|:---:|:---:|:---:|:---|
+|:---:|:---|:---|:---|
 | 0 | **[Libft](https://github.com/ecole42-yoma/Libft)** | `C` `library` | Your very first own library |
 | I | **[get_next_line](https://github.com/ecole42-yoma/get_next_line)** | `C` `getline` | Reading a line from a fd is way too tedious |
 | | **netwhat** | `Network` | This project is an introduction to network problematics |
@@ -41,13 +41,14 @@
 
 ## 📚 The Second Part
 |  Specialty  |  Project Name  |  Stack  |  Summary  |
-|:---:|:---:|:---:|:---|
-| | | | |
+|:---:|:---|:---|:---|
+| Lorem | **[ipsum]()** | `dolor` |Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
+| Lorem | **[ipsum]()** | `dolor` |Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
 
 <br><br>
 ## 🎁 Events
 |  Date  |  Type  |  Project Name  |  Summary  |
-|:---:|:---:|:---:|:---|
+|:---:|:---|:---|:---|
 |  2021 Oct |  💻 Hackathon  |  **[the Genius \| Piscine](https://github.com/ecole42-yoma/2021_42_hackathon_the_Genius_Piscine)**  |  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  |
 |  2022 Jul |  🎤 Symposium  |  **[동료평가에서 지지않는 42가지 방법 : 논리의 기술편](https://www.canva.com/design/DAFGMwf84HU/0ZR5gKkJZm2r9BEK4HEPcw/edit?utm_content=DAFGMwf84HU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**  |  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  |
 |  2022 Sep |  💻 Hackathon  |  **[We Have A Problem \| Dash](https://github.com/ecole42-yoma/2022_42_hackathon_We_have_a_problem_dash)** |  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  |
