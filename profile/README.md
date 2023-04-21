@@ -17,24 +17,24 @@
 -->
 
 | Lv | Project Name  |  Stack  |  Summary  |
-|:---:|:---:|:---:|:---|
-|0| **[Libft](https://github.com/ecole42-yoma/Libft)** | `C` `library` | Your very first own library |
-|1| **[get_next_line](https://github.com/ecole42-yoma/get_next_line)** | `C` `getline` | Reading a line from a fd is way too tedious |
-|| **netwhat** | `Network` | <sub> This project is an introduction to network problematics. </sub> |
-|| **[ft_printf](https://github.com/ecole42-yoma/ft_printf)** | `C` `printf` | **Because ft_putnbr() and ft_putstr() aren’t enough** </br> <sub> The goal of this project is pretty straightforward. You will recode printf(). You will mainly learn about using a variable number of arguments. How cool is that?? It is actually pretty cool :) </br> You will learn what is and how to implement variadic functions. Once you validate it, you will reuse this function in your future projects. </sub> |
-|| **Born2beroot** | `VM` | <sub> This project aims to introduce you to the wonderful world of virtualization. </sub> |
-|2| **[minitalk](https://github.com/ecole42-yoma/minitalk)** | `C` `UNIX signals` | <sub> The purpose of this project is to code a small data exchange program using UNIX signals. </br> It is an introductory project for the bigger UNIX projects that will appear later on in the cursus. </sub> |
-|| **[push_swap](https://github.com/ecole42-yoma/push_swap)** | `C` `Algorithm` | **Because Swap_push isn’t as natural** </br> <sub> This project will make you sort data on a stack, with a limited set of instructions, using the lowest possible number of actions. To succeed you’ll have to manipulate various types of algorithms and choose the most appropriate solution (out of many) for an optimized data sorting. </sub> |
-|| **[FdF](https://github.com/ecole42-yoma/FdF)** | `C` `Graphic` | <sub> This project is about creating a simplified 3D graphic representation of a relief landscape. </br> FdF offers to represent “iron wire” meshing in 3D. </sub> |
-|3| **[Philosophers](https://github.com/ecole42-yoma/Philosophers)** | `C` `Scheduling` | **I never thought philosophy would be so deadly** </br> <sub> Eat, Sleep, Spaghetti, repeat. </br> This project is about learning how threads work by precisely timing a group of philosophers on when to pick up forks and eat spaghetti without dying from hunger. </br> In this project, you will learn the basics of threading a process. You will see how to create threads and you will discover mutexes. </sub> |
-|| **[minishell](https://github.com/ecole42-yoma/minishell)** | `C` `Shell (bash)` | **As beautiful as a shell** </br> <sub> The objective of this project is for you to create a simple shell. </br> Yes, your little bash or zsh. You will learn a lot about processes and file descriptors. </sub> |
-|4| **NetPractice** | `Network` | <sub> NetPractice is a general practical exercise to let you discover networking. </sub> |
-|| **[cub3d](https://github.com/ecole42-yoma/cub3d)** | `C` `Graphic` `Ray-Casting` | **My first RayCaster with miniLibX** </br> <sub> This project is inspired by the world-famous Wolfenstein 3D game, which was the first FPS ever. It will enable you to explore ray-casting. </br> Your goal will be to make a dynamic view inside a maze, in which you’ll have to find your way. </sub> |
-|| **[CPP Module Series](https://github.com/ecole42-yoma/CPP-Module)** | `C++` | <sub> Time to dive into Object Oriented Programming! </sub> |
-|5| **[Inception](https://github.com/ecole42-yoma/Inception)** | `Docker` `LAMP Stack` | <sub> This project aims to broaden your knowledge of system administration by using Docker. </br> You will virtualize several Docker images, creating them in your new personal virtual machine. </br> docker, docker compose, nginx, mysql, redis, ftp, adminer, code-server </sub> |
-|| **[webserv](https://github.com/ecole42-yoma/webserv)** | `C++` `HTTP Server` | **This is when you finally understand why a URL starts with HTTP** </br> <sub> This project is about writing your own HTTP server. You will be able to test it with an actual browser. </br> HTTP is one of the most used protocols on the internet. Knowing its arcane will be useful, even if you won’t be working on a website. </sub> |
-|| **[ft_containers](https://github.com/ecole42-yoma/ft_containers)** | `C++` `STL` `TMP` | **C++ containers, easy mode** </br> <sub> The standard C++ containers have all a specific usage. </br> To make sure you understand them, let’s re-implement them! </sub> |
-|6| **[ft_transcendence](https://github.com/ecole42-yoma/ft_transcendence)** | `TypeScript` `Nest.JS` `PostgreSQL` `React` `Jotai` | **Soon, you will realize that you already know things that you thought you didn’t** </br> <sub> No more C! No more C++! This project is about doing something you’ve never done before. </br> Remind yourself the beginning of your journey in computer science. Look at you now. Time to shine! </sub>|  |
+|:---:|:---:|:---|:---|
+| 0 | **[Libft](https://github.com/ecole42-yoma/Libft)** | `C` `library` | Your very first own library |
+| I | **[get_next_line](https://github.com/ecole42-yoma/get_next_line)** | `C` `getline` | Reading a line from a fd is way too tedious |
+| | **netwhat** | `Network` | This project is an introduction to network problematics |
+| | **[ft_printf](https://github.com/ecole42-yoma/ft_printf)** | `C` `printf` | Because ft_putnbr() and ft_putstr() aren’t enough |
+| | **Born2beroot** | `VM` | This project aims to introduce you to the wonderful world of virtualization |
+| II | **[minitalk](https://github.com/ecole42-yoma/minitalk)** | `C` `UNIX signals` | The purpose of this project is to code a small data exchange program using UNIX signals |
+| | **[push_swap](https://github.com/ecole42-yoma/push_swap)** | `C` `Algorithm` | Because Swap_push isn’t as natural |
+| | **[FdF](https://github.com/ecole42-yoma/FdF)** | `C` `Graphic` | This project is about creating a simplified 3D graphic representation of a relief landscape |
+| III | **[Philosophers](https://github.com/ecole42-yoma/Philosophers)** | `C` `Scheduling` | I never thought philosophy would be so deadly |
+| | **[minishell](https://github.com/ecole42-yoma/minishell)** | `C` `Shell (bash)` | As beautiful as a shell |
+| IV | **NetPractice** | `Network` | NetPractice is a general practical exercise to let you discover networking |
+| | **[cub3d](https://github.com/ecole42-yoma/cub3d)** | `C` `Graphic` `Ray-Casting` | My first RayCaster with miniLibX |
+| | **[CPP Module Series](https://github.com/ecole42-yoma/CPP-Module)** | `C++` | Time to dive into Object Oriented Programming! |
+| V | **[Inception](https://github.com/ecole42-yoma/Inception)** | `Docker` `LAMP Stack` | This project aims to broaden your knowledge of system administration by using Docker |
+| | **[webserv](https://github.com/ecole42-yoma/webserv)** | `C++` `HTTP Server` | This is when you finally understand why a URL starts with HTTP |
+| | **[ft_containers](https://github.com/ecole42-yoma/ft_containers)** | `C++` `STL` `TMP` | C++ containers, easy mode |
+| VI | **[ft_transcendence](https://github.com/ecole42-yoma/ft_transcendence)** | `TypeScript` `Nest.JS` `PostgreSQL` <br> `React` `Socket.io` | Soon, you will realize that you already know things that you thought you didn’t |
 ||  |  |  |  |
 
 <br><br>
