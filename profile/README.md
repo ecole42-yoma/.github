@@ -35,7 +35,6 @@
 | | **[webserv](https://github.com/ecole42-yoma/webserv)** | `C++` `HTTP Server` | This is when you finally understand why a URL starts with HTTP |
 | | **[ft_containers](https://github.com/ecole42-yoma/ft_containers)** | `C++` `STL` `TMP` | C++ containers, easy mode |
 | VI | **[ft_transcendence](https://github.com/ecole42-yoma/ft_transcendence)** | `TypeScript` `Nest.JS` `PostgreSQL` <br> `React` `Socket.io` | Soon, you will realize that you already know things that you thought you didn’t |
-||  |  |  |  |
 
 <br><br>
 
