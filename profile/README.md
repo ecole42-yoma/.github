@@ -29,7 +29,7 @@
 | III | **[Philosophers](https://github.com/ecole42-yoma/Philosophers)** | `C` `Scheduling` | I never thought philosophy would be so deadly |
 | | **[minishell](https://github.com/ecole42-yoma/minishell)** | `C` `Shell (bash)` | As beautiful as a shell |
 | IV | **NetPractice** | `Network` | NetPractice is a general practical exercise to let you discover networking |
-| | **[cub3d](https://github.com/ecole42-yoma/cub3d)** | `C` `Graphic` `Ray-Casting` | My first RayCaster with miniLibX |
+| | **[cub3d](https://github.com/ecole42-yoma/cub3d)** | `C` `Game` `Graphic` `Ray-Casting` | My first RayCaster with miniLibX |
 | | **[CPP Module Series](https://github.com/ecole42-yoma/CPP-Module)** | `C++` `OOP` | Time to dive into Object Oriented Programming! |
 | V | **[Inception](https://github.com/ecole42-yoma/Inception)** | `Docker` `LAMP Stack` | This project aims to broaden your knowledge of system administration by using Docker |
 | | **[webserv](https://github.com/ecole42-yoma/webserv)** | `C++` `HTTP Server` | This is when you finally understand why a URL starts with HTTP |
